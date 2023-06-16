@@ -1,0 +1,7 @@
+Работать с файлом california_housing_train.csv, который находится в папке sample_data.
+Определить среднюю стоимость дома, где кол-во людей от 0 до 500 (population).
+
+df_3.loc[(df_3['population'] > 0.0) & (df_3['population'] < 500.0), ['median_house_value']].mean()
+median_house_value    206683.836352
+dtype: float64
+

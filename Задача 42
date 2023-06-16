@@ -1,0 +1,7 @@
+Узнать какая максимальная households в зоне минимального значения population.
+
+house_value1 = df_3['population'].min()
+df_3.loc[df_3['population'] == house_value1, 'households'].max()
+
+8232    4.0
+Name: households, dtype: float64

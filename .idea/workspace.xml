@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6b684d9-90ff-40d3-b69e-6aadfbd6db8a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0dd0517b-6dff-4bf0-9283-530d2f26bccf" />
+        <option name="url" value="https://github.com/Prokhor33/Seminar-38.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RFmeHvCLM5VLz8cNlf2UYF5pOu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
+    ],
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;,
+      &quot;Markdown&quot;,
+      &quot;GitIgnore&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="pythonProject33" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject33" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\proho\PycharmProjects\pythonProject25\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (pythonProject25)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6b684d9-90ff-40d3-b69e-6aadfbd6db8a" name="Changes" comment="" />
+      <created>1686854297248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686854297248</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Задача 38">
+      <created>1686931677995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686931677995</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Задача 38">
+      <created>1686933932207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686933932207</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Задача 38">
+      <created>1687191109728</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687191109728</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Задача 38">
+      <created>1687191510467</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687191510467</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Задача 38">
+      <created>1687191581316</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687191581316</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Дополнить телефонный справочник возможностью изменения и удаления данных.&#10;Пользователь также может ввести имя или фамилию, и Вы должны реализовать функционал для изменения и удаления данных&#10;&#10;def show_data():&#10;&quot;&quot;&quot;эта ф-ция показывает содержимое справочника&quot;&quot;&quot;&#10;with open('data.txt', 'r', encoding='utf-8') as file:&#10;book = file.read()#.split('\n')&#10;return book&#10;&#10;def new_data():&#10;&quot;&quot;&quot;добавляет строку в справочник&quot;&quot;&quot;&#10;with open('data.txt', 'a', encoding='utf-8') as file:&#10;file.write(input('Введите новую строку: '+ '\n') )&#10;&#10;&#10;def find_data():&#10;&quot;&quot;&quot;Эта ф-ция ищет информацию в справочнике&quot;&quot;&quot;&#10;with open('data.txt', 'r', encoding='utf-8') as file:&#10;book = file.read().split('\n')&#10;temp = input('что ищем?:')&#10;for i in book:&#10;if temp in i:&#10;print(i)&#10;&#10;&#10;def delete_person(name):&#10;&quot;&quot;&quot;Удаляет данные&quot;&quot;&quot;&#10;persons = read_data()&#10;with open(&quot;data.txt&quot;, &quot;w&quot;, encoding=&quot;utf8&quot;) as file:&#10;for person in persons:&#10;if name != person:&#10;file.write(person)&#10;&#10;def change_person(new_name, old_name):&#10;&quot;&quot;&quot;Изменяет данные&quot;&quot;&quot;&#10;persons = read_data()&#10;with open(&quot;data.txt&quot;, &quot;w&quot;, encoding=&quot;utf8&quot;) as file:&#10;for person in persons:&#10;if  old_name != person:&#10;file.write(person)&#10;else:&#10;file.write(new_name + &quot;\n&quot;)&#10;&#10;while True:&#10;mode = input('Выберите режим работы справочника' + '\n'&#10;+'0-поиск, 1-чтение файла, 2-добавление в файл, 3-удаление, 4-замена, 5-выход:')&#10;if mode == '1':&#10;print(show_data())&#10;elif mode == '0':&#10;find_data()&#10;elif mode == '2':&#10;new_data()&#10;elif mode == '3':&#10;name = input('кого удаляем?:')&#10;delete_person(name)&#10;elif mode == '4':&#10;old_name = input('кого хотим переименовать?:')&#10;new_name = input('как хотим его назвать?:')&#10;change_person(new_name,old_name)&#10;elif mode == '5':&#10;break&#10;else:&#10;print('No mode')">
+      <created>1687192085202</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687192085202</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задача 38" />
+    <MESSAGE value="Дополнить телефонный справочник возможностью изменения и удаления данных.&#10;Пользователь также может ввести имя или фамилию, и Вы должны реализовать функционал для изменения и удаления данных&#10;&#10;def show_data():&#10;&quot;&quot;&quot;эта ф-ция показывает содержимое справочника&quot;&quot;&quot;&#10;with open('data.txt', 'r', encoding='utf-8') as file:&#10;book = file.read()#.split('\n')&#10;return book&#10;&#10;def new_data():&#10;&quot;&quot;&quot;добавляет строку в справочник&quot;&quot;&quot;&#10;with open('data.txt', 'a', encoding='utf-8') as file:&#10;file.write(input('Введите новую строку: '+ '\n') )&#10;&#10;&#10;def find_data():&#10;&quot;&quot;&quot;Эта ф-ция ищет информацию в справочнике&quot;&quot;&quot;&#10;with open('data.txt', 'r', encoding='utf-8') as file:&#10;book = file.read().split('\n')&#10;temp = input('что ищем?:')&#10;for i in book:&#10;if temp in i:&#10;print(i)&#10;&#10;&#10;def delete_person(name):&#10;&quot;&quot;&quot;Удаляет данные&quot;&quot;&quot;&#10;persons = read_data()&#10;with open(&quot;data.txt&quot;, &quot;w&quot;, encoding=&quot;utf8&quot;) as file:&#10;for person in persons:&#10;if name != person:&#10;file.write(person)&#10;&#10;def change_person(new_name, old_name):&#10;&quot;&quot;&quot;Изменяет данные&quot;&quot;&quot;&#10;persons = read_data()&#10;with open(&quot;data.txt&quot;, &quot;w&quot;, encoding=&quot;utf8&quot;) as file:&#10;for person in persons:&#10;if  old_name != person:&#10;file.write(person)&#10;else:&#10;file.write(new_name + &quot;\n&quot;)&#10;&#10;while True:&#10;mode = input('Выберите режим работы справочника' + '\n'&#10;+'0-поиск, 1-чтение файла, 2-добавление в файл, 3-удаление, 4-замена, 5-выход:')&#10;if mode == '1':&#10;print(show_data())&#10;elif mode == '0':&#10;find_data()&#10;elif mode == '2':&#10;new_data()&#10;elif mode == '3':&#10;name = input('кого удаляем?:')&#10;delete_person(name)&#10;elif mode == '4':&#10;old_name = input('кого хотим переименовать?:')&#10;new_name = input('как хотим его назвать?:')&#10;change_person(new_name,old_name)&#10;elif mode == '5':&#10;break&#10;else:&#10;print('No mode')" />
+    <option name="LAST_COMMIT_MESSAGE" value="Дополнить телефонный справочник возможностью изменения и удаления данных.&#10;Пользователь также может ввести имя или фамилию, и Вы должны реализовать функционал для изменения и удаления данных&#10;&#10;def show_data():&#10;&quot;&quot;&quot;эта ф-ция показывает содержимое справочника&quot;&quot;&quot;&#10;with open('data.txt', 'r', encoding='utf-8') as file:&#10;book = file.read()#.split('\n')&#10;return book&#10;&#10;def new_data():&#10;&quot;&quot;&quot;добавляет строку в справочник&quot;&quot;&quot;&#10;with open('data.txt', 'a', encoding='utf-8') as file:&#10;file.write(input('Введите новую строку: '+ '\n') )&#10;&#10;&#10;def find_data():&#10;&quot;&quot;&quot;Эта ф-ция ищет информацию в справочнике&quot;&quot;&quot;&#10;with open('data.txt', 'r', encoding='utf-8') as file:&#10;book = file.read().split('\n')&#10;temp = input('что ищем?:')&#10;for i in book:&#10;if temp in i:&#10;print(i)&#10;&#10;&#10;def delete_person(name):&#10;&quot;&quot;&quot;Удаляет данные&quot;&quot;&quot;&#10;persons = read_data()&#10;with open(&quot;data.txt&quot;, &quot;w&quot;, encoding=&quot;utf8&quot;) as file:&#10;for person in persons:&#10;if name != person:&#10;file.write(person)&#10;&#10;def change_person(new_name, old_name):&#10;&quot;&quot;&quot;Изменяет данные&quot;&quot;&quot;&#10;persons = read_data()&#10;with open(&quot;data.txt&quot;, &quot;w&quot;, encoding=&quot;utf8&quot;) as file:&#10;for person in persons:&#10;if  old_name != person:&#10;file.write(person)&#10;else:&#10;file.write(new_name + &quot;\n&quot;)&#10;&#10;while True:&#10;mode = input('Выберите режим работы справочника' + '\n'&#10;+'0-поиск, 1-чтение файла, 2-добавление в файл, 3-удаление, 4-замена, 5-выход:')&#10;if mode == '1':&#10;print(show_data())&#10;elif mode == '0':&#10;find_data()&#10;elif mode == '2':&#10;new_data()&#10;elif mode == '3':&#10;name = input('кого удаляем?:')&#10;delete_person(name)&#10;elif mode == '4':&#10;old_name = input('кого хотим переименовать?:')&#10;new_name = input('как хотим его назвать?:')&#10;change_person(new_name,old_name)&#10;elif mode == '5':&#10;break&#10;else:&#10;print('No mode')" />
+  </component>
+</project>
